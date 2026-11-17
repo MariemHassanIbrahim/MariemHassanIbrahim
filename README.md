@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mariem Hassan 
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Front-end web development
-- 💞️ I’m looking to collaborate on front-end projects
+- 👀 I’m interested in Backend Development 
+- 🌱 I’m currently learning Back-end web development
+- 💞️ I’m looking to collaborate on Software projects
 - 📫 How to reach me, kindly contact mariemhassan298@gmail.com
 
 <!---
